@@ -3,5 +3,3 @@
 	email = sam@clamblog.com
 [core]
 	editor = vim
-[credential]
-	helper = cache
