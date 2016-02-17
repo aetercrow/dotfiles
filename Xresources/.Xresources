@@ -5,7 +5,7 @@ Xft.hinting: 1
 Xft.antialias: 1
 Xft.rgba: rgb
 
-*.font: xft:Inconsolata:size=12
+URxvt.font: xft:Inconsolata:size=12
 ! :URxvt.letterSpace: -1
 
 
