@@ -69,5 +69,5 @@ set mouse=a         " Enable the use of the mouse.
  
 filetype plugin indent on
 syntax on
-set backupdir=~/.vim/bak//
-set directory=~/.vim/swp//
+set nobackup
+set noswapfile
